@@ -5,72 +5,28 @@ Hello! I am a Full Stack web developer with experience in building interactive a
 
 Here is the set of technologies, tools, and platforms I use in my projects.
 
----
-
 ## 🌐 Frontend
-
-|  |  |
-|-------|------------|
-| ![HTML5](https://skillicons.dev/icons?i=html) | **HTML5**  |
-| ![CSS3](https://skillicons.dev/icons?i=css) | **CSS3**   |
-| ![JavaScript](https://skillicons.dev/icons?i=js) | **JavaScript (ES6+)** |
-| ![TypeScript](https://skillicons.dev/icons?i=ts) | **TypeScript**  |
-| ![React](https://skillicons.dev/icons?i=react) | **React**  |
-
----
+![FrontEnd](https://skillicons.dev/icons?i=html,css,js,ts,react)
 
 ## ⚙️ Backend
-
-|  |  |
-|-------|------------|
-| ![C#](https://skillicons.dev/icons?i=cs) | **C#**   |
-| ![Blazor](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blazor.svg) | **Blazor**   |
-| ![Php](https://skillicons.dev/icons?i=php) | **Php**   |
-| ![Symfony](https://skillicons.dev/icons?i=symfony) | **Symfony**   |
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) | **Node.js**  |
-| ![Express](https://skillicons.dev/icons?i=express) | **Express**  |
-| ![Python](https://skillicons.dev/icons?i=python) | **Python**   |
-| ![Django](https://skillicons.dev/icons?i=django) | **Django**   |
-
----
+![BackEnd](https://skillicons.dev/icons?i=cs,php,symfony,laravel,nodejs,express,python,django)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blazor.svg" width="50" height="50" />
 
 ## 🗄️ Databases
-
-|  |  |
-|-------|------------|
-| ![MySQL](https://skillicons.dev/icons?i=mysql) | **MySQL**      |
-| ![MariaDB](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mariadb.svg) | **MariaDB**      |
-| ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | **PostgreSQL** |
-| ![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg) | **MongoDB**    |
-
----
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+<img src="https://github.com/user-attachments/assets/11faf23f-4058-45c1-a763-994e9f2ed854" width="50" height="50" />
 
 ## ☁️ DevOps & Cloud
-
-|  |  |
-|-------|------------|
-| ![Docker](https://skillicons.dev/icons?i=docker) | **Docker**    |
-
----
+![DevOps & Cloud](https://skillicons.dev/icons?i=docker)
 
 ## 🧑‍💻 Tools && Others 
+![Tools && Others ](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman)
 
-|  |  |
-|-------|------------|
-| ![Git](https://skillicons.dev/icons?i=git) | **Git**           |
-| ![GitHub](https://skillicons.dev/icons?i=github) | **GitHub**   
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | **Visual Studio Code** |
-| ![Visual Studio Community](https://skillicons.dev/icons?i=visualstudio) | **Visual Studio Community**        |
-| ![Pycharm](https://skillicons.dev/icons?i=pycharm) | **Pycharm**         |
-| ![Postman](https://skillicons.dev/icons?i=postman) | **Postman**       |
-
----
 
 # 📊 GitHub Stats
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioguillen123&theme=tokyonight&layout=donut)](https://github.com/antonioguillen123/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonioguillen123&show_icons=true&theme=tokyonight&custom_title=AntonioGuillen123+Stats)
 
----
 
 # 📫 Contact
 
