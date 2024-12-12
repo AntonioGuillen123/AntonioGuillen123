@@ -6,7 +6,7 @@ Hello! I am a Full Stack web developer with experience in building interactive a
 Here is the set of technologies, tools, and platforms I use in my projects.
 
 ## 🌐 Frontend
-![FrontEnd](https://skillicons.dev/icons?i=html,css,js,ts,react)
+![FrontEnd](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)
 
 ## ⚙️ Backend
 ![BackEnd](https://skillicons.dev/icons?i=cs,php,symfony,laravel,nodejs,express,python,django)
