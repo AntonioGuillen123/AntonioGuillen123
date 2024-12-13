@@ -17,7 +17,7 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 <img src="https://github.com/user-attachments/assets/11faf23f-4058-45c1-a763-994e9f2ed854" width="50" height="50" />
 
 ## ☁️ DevOps & Cloud
-![DevOps & Cloud](https://skillicons.dev/icons?i=docker)
+![DevOps & Cloud](https://skillicons.dev/icons?i=docker,aws)
 
 ## 🧑‍💻 Tools && Others 
 ![Tools && Others ](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman)
