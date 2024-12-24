@@ -9,7 +9,7 @@ Here is the set of technologies, tools, and platforms I use in my projects.
 ![FrontEnd](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)
 
 ## ⚙️ Backend
-![BackEnd](https://skillicons.dev/icons?i=cs,php,symfony,laravel,nodejs,express,python,django)
+![BackEnd](https://skillicons.dev/icons?i=php,symfony,laravel,nodejs,express,python,django,cs)
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blazor.svg" width="50" height="50" />
 
 ## 🗄️ Databases
